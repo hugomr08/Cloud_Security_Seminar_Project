@@ -14,7 +14,6 @@ Created by Hugo Munoz and Shakoor Mahmood
 4. Programming Languages:
    - *Python*: Often used for scripting and automation tasks. Libraries like Boto3 can interact with cloud APIs.
    - *Bash Scripting*: Useful for creating custom scripts to automate tasks or exploit vulnerabilities.
-   - *Powershell*: If targeting Azure, Powershell scripting can be handy for automation and interacting with Azure resources.
 
 5. Exploitation Tools:
 
