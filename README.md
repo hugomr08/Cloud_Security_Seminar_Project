@@ -1,6 +1,8 @@
 # Cloud_Security_Seminar_Project
-Created by Hugo Munoz and Shakoor Mahmood
 
+Created by Hugo Munoz and Shakoor Mahmood
+PoC Video:
+https://www.youtube.com/watch?v=WwakJSWsL3o
 1. Cloud Platforms: Amazon Web Services (AWS)
 
 2. Virtual Machines or Instances Set up virtual machines or instances on your chosen cloud platform(s) to act as targets for penetration testing. These instances should be intentionally vulnerable to simulate real-world scenarios.
