@@ -1,6 +1,7 @@
 # Cloud_Security_Seminar_Project
 
 Created by Hugo Munoz and Shakoor Mahmood
+
 PoC Video:
 https://www.youtube.com/watch?v=WwakJSWsL3o
 1. Cloud Platforms: Amazon Web Services (AWS)
